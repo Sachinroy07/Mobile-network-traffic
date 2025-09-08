@@ -1,4 +1,4 @@
-Mobile Netwirk Traffic
+Mobile Network Traffic
 
 This guide provides a recipe for setting up a man-in-the-middle (MITM) attack to view an emulated Android device’s encrypted HTTPS requests and responses in clear text.
 This setup is useful for security research, journalism, and troubleshooting mobile advertising.
